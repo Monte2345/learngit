@@ -1,1 +1,2 @@
 chain gain是什么东西
+git is a distributed version control system.
